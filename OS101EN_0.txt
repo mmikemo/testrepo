@@ -1,0 +1,29 @@
+Start of transcript. Skip to the end.
+Welcome to Open Source Software (or OSS)!
+"Open source" is a way of working on a project that relies on collaboration, decentralization,
+and access.
+Open source software makes source code available to users and invites a community of technical
+and non-technical contributors to build on and improve it.
+This course introduces you to open source software.
+You'll learn the key concepts, tools, and processes to contribute to any open source
+project.
+First, you'll be introduced to open source software at a high level: what it is, how
+it works, and why it matters.
+Next, you'll learn how to contribute to an open source project, from identifying the
+right project for you, to understanding the different ways to contribute, to following
+best practices in the open source community.
+You'll then get familiar with the tools you'll use to contribute to open source software
+projects, including Git and GitHub.
+Finally, you'll learn how to set up and host your own project and explore open source leadership,
+governance, and community.
+This course focuses on open source projects in the context of software development, but
+you don't need coding skills to enroll and reap the benefits.
+You'll learn how open source software projects are built and improved by a wide range of
+contributors, including developers, designers, architects, editors, writers, and students.
+The learning materials are delivered through easy-to-follow slides, videos, and demos,
+and practice quizzes let you test your understanding of the material before you complete the graded
+quiz for each module.
+Whether you want to gain an understanding of open source projects or simply refresh
+your open source development skills, this course is for you.
+If you're an experienced developer or have no coding skills at all, you'll quickly gain
+the knowledge and expertise to find, contribute to, and lead an open source software project.
